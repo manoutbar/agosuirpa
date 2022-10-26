@@ -1230,14 +1230,6 @@
         }
     },
     {
-        "model": "sites.site",
-        "pk": 1,
-        "fields": {
-            "domain": "canela.lsi.us.es",
-            "name": "AGOSUIRPA"
-        }
-    },
-    {
         "model": "users.customuser",
         "pk": 1,
         "fields": {
@@ -1247,7 +1239,7 @@
             "username": "admin",
             "first_name": "",
             "last_name": "",
-            "email": "agosuirpa@gmail.com",
+            "email": "admin@example.com",
             "is_staff": true,
             "is_active": true,
             "date_joined": "2022-03-10T10:18:41.361Z",

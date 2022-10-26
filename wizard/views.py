@@ -100,21 +100,26 @@ class GUIComponentViewSet(viewsets.ModelViewSet):
         except:
             return Response({"message": "No user found"}, status=status.HTTP_404_NOT_FOUND)
         try:
+            params = request.data
             guiComponent = get_object_or_404(GUIComponent, user=user.id, id=pk)
-            guiComponent.save()
-            guiComponent.id_code = request.data.get('id_code')
-            guiComponent.name = request.data.get('name')
-            guiComponent.filename = request.data.get('filename')
-            guiComponent.path = request.data.get('path')
-            guiComponent.description = request.data.get('description')
-            guiComponent.gui_component_category = GUIComponentCategory.objects.get(id=request.data.get('gui_component_category'))
-            guiComponent.image = request.data.get('image')
+            # guiComponent.save()
+            guiComponent.id_code = params.get('id_code')
+            guiComponent.name = params.get('name')
+            guiComponent.description = params.get('description')
+            guiComponent.gui_component_category = GUIComponentCategory.objects.get(id=params.get('gui_component_category'))
+
+            if "image" in params:
+                guiComponent.image = params.get('image')
+
             if user.is_superuser:
                 guiComponent.preloaded = True
-            guiComponent.filename = guiComponent.image.name
-            guiComponent.path = 'privatefiles'+sep
+
             guiComponent.save()
-            msg = 'ok, created'
+
+            guiComponent.filename = guiComponent.image.name.split(sep)[-1]
+            guiComponent.path = guiComponent.image.name
+
+            msg = 'ok, updated'
             st = status.HTTP_201_CREATED
             response_content = {"message": msg}
 
