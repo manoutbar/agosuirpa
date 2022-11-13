@@ -107,17 +107,18 @@ class GUIComponentViewSet(viewsets.ModelViewSet):
             guiComponent.name = params.get('name')
             guiComponent.description = params.get('description')
             guiComponent.gui_component_category = GUIComponentCategory.objects.get(id=params.get('gui_component_category'))
-
+            guiComponent.user = request.user
+            
             if "image" in params:
-                guiComponent.image = params.get('image')
+                guiComponent.image = request.data.get('image')
 
             if user.is_superuser:
                 guiComponent.preloaded = True
 
-            guiComponent.save()
-
             guiComponent.filename = guiComponent.image.name.split(sep)[-1]
-            guiComponent.path = guiComponent.image.name
+            guiComponent.path = 'GUI_components/' + guiComponent.image.name
+
+            guiComponent.save()
 
             msg = 'ok, updated'
             st = status.HTTP_201_CREATED
