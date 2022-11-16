@@ -1,0 +1,11 @@
+Case,Activity,Variant,Timestamp,MorKeyb,Coor_X,Coor_Y,Click,features.experiment.GUI_category.name.TextInput,NameApp,Screenshot
+1,A,2,1648054939258,1,1057,259,1,NaN,Firefox,1_img.png
+1,B,2,1648054939489,1,1060,115,1,NaN,Firefox,2_img.png
+1,E,2,1648054939724,0,NaN,NaN,NaN,iusto repellat natus a,Firefox,3_img.png
+2,A,1,1648054940442,1,1057,251,1,NaN,Firefox,4_img.png
+2,B,1,1648054940706,1,667,292,1,NaN,Firefox,5_img.png
+2,C,1,1648054941319,0,248,494,NaN,key.ALT+key.TAB,Firefox,6_img.png
+2,D,1,1648054941935,0,NaN,NaN,0,Excepturi,Firefox,7_img.png
+3,A,2,1648054942729,1,402,259,1,NaN,Firefox,8_img.png
+3,B,2,1648054942967,1,1069,51,1,NaN,Firefox,9_img.png
+3,E,2,1648054943213,0,NaN,NaN,NaN,officiis facere dolores cum,Firefox,10_img.png

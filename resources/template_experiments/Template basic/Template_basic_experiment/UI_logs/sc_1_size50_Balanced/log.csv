@@ -1,0 +1,49 @@
+Case,Activity,Variant,Timestamp,MorKeyb,Coor_X,Coor_Y,Click,features.experiment.GUI_category.name.TextInput,NameApp,Screenshot
+1,A,2,1648055169596,1,585,229,1,NaN,Firefox,1_img.png
+1,B,2,1648055170179,1,1034,50,1,NaN,Firefox,2_img.png
+1,E,2,1648055170758,0,NaN,NaN,NaN,vero eius tempore repellendus,Firefox,3_img.png
+2,A,1,1648055172781,1,588,254,1,NaN,Firefox,4_img.png
+2,B,1,1648055173021,1,664,271,1,NaN,Firefox,5_img.png
+2,C,1,1648055173537,0,511,401,NaN,key.ALT+key.TAB,Firefox,6_img.png
+2,D,1,1648055174162,0,NaN,NaN,0,Ex,Firefox,7_img.png
+3,A,1,1648055174944,1,1043,225,1,NaN,Firefox,8_img.png
+3,B,1,1648055175168,1,660,283,1,NaN,Firefox,9_img.png
+3,C,1,1648055175660,0,485,363,NaN,key.ALT+key.TAB,Firefox,10_img.png
+3,D,1,1648055176351,0,NaN,NaN,0,Ullam,Firefox,11_img.png
+4,A,1,1648055177099,1,652,256,1,NaN,Firefox,12_img.png
+4,B,1,1648055177339,1,620,292,1,NaN,Firefox,13_img.png
+4,C,1,1648055177852,0,531,612,NaN,key.ALT+key.TAB,Firefox,14_img.png
+4,D,1,1648055178609,0,NaN,NaN,0,Explicabo,Firefox,15_img.png
+5,A,1,1648055179356,1,912,270,1,NaN,Firefox,16_img.png
+5,B,1,1648055179601,1,604,288,1,NaN,Firefox,17_img.png
+5,C,1,1648055180094,0,502,574,NaN,key.ALT+key.TAB,Firefox,18_img.png
+5,D,1,1648055180747,0,NaN,NaN,0,Rem,Firefox,19_img.png
+6,A,2,1648055181525,1,335,217,1,NaN,Firefox,20_img.png
+6,B,2,1648055181771,1,1056,124,1,NaN,Firefox,21_img.png
+6,E,2,1648055182014,0,NaN,NaN,NaN,quisquam quas voluptatum reiciendis,Firefox,22_img.png
+7,A,2,1648055182876,1,838,239,1,NaN,Firefox,23_img.png
+7,B,2,1648055183121,1,1058,81,1,NaN,Firefox,24_img.png
+7,E,2,1648055183364,0,NaN,NaN,NaN,deleniti nihil vitae ab,Firefox,25_img.png
+8,A,2,1648055185517,1,366,266,1,NaN,Firefox,26_img.png
+8,B,2,1648055185867,1,1080,136,1,NaN,Firefox,27_img.png
+8,E,2,1648055186112,0,NaN,NaN,NaN,magnam doloremque voluptas laborum,Firefox,28_img.png
+9,A,2,1648055187594,1,258,232,1,NaN,Firefox,29_img.png
+9,B,2,1648055187925,1,1102,46,1,NaN,Firefox,30_img.png
+9,E,2,1648055188501,0,NaN,NaN,NaN,reprehenderit inventore unde atque,Firefox,31_img.png
+10,A,2,1648055190550,1,609,212,1,NaN,Firefox,32_img.png
+10,B,2,1648055191252,1,1092,104,1,NaN,Firefox,33_img.png
+10,E,2,1648055191667,0,NaN,NaN,NaN,tempore natus ratione nam,Firefox,34_img.png
+11,A,2,1648055193595,1,1026,193,1,NaN,Firefox,35_img.png
+11,B,2,1648055193966,1,1096,86,1,NaN,Firefox,36_img.png
+11,E,2,1648055194324,0,NaN,NaN,NaN,architecto perferendis odit veniam,Firefox,37_img.png
+12,A,1,1648055195183,1,147,239,1,NaN,Firefox,38_img.png
+12,B,1,1648055195427,1,633,279,1,NaN,Firefox,39_img.png
+12,C,1,1648055195932,0,282,410,NaN,key.ALT+key.TAB,Firefox,40_img.png
+12,D,1,1648055196580,0,NaN,NaN,0,Distinctio,Firefox,41_img.png
+13,A,1,1648055197334,1,388,255,1,NaN,Firefox,42_img.png
+13,B,1,1648055197571,1,655,264,1,NaN,Firefox,43_img.png
+13,C,1,1648055198063,0,337,507,NaN,key.ALT+key.TAB,Firefox,44_img.png
+13,D,1,1648055198793,0,NaN,NaN,0,Maxime,Firefox,45_img.png
+14,A,2,1648055199579,1,831,237,1,NaN,Firefox,46_img.png
+14,B,2,1648055199815,1,1093,139,1,NaN,Firefox,47_img.png
+14,E,2,1648055200053,0,NaN,NaN,NaN,voluptates nulla cumque facere,Firefox,48_img.png

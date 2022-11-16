@@ -1,0 +1,52 @@
+Case,Activity,Variant,Timestamp,MorKeyb,Coor_X,Coor_Y,Click,features.experiment.GUI_category.name.TextInput,NameApp,Screenshot
+1,A,1,1648054986375,1,741,210,1,NaN,Firefox,1_img.png
+1,B,1,1648054986653,1,607,244,1,NaN,Firefox,2_img.png
+1,C,1,1648054987359,0,145,463,NaN,key.ALT+key.TAB,Firefox,3_img.png
+1,D,1,1648054988506,0,NaN,NaN,0,Officiis,Firefox,4_img.png
+2,A,1,1648054989685,1,395,230,1,NaN,Firefox,5_img.png
+2,B,1,1648054990034,1,579,250,1,NaN,Firefox,6_img.png
+2,C,1,1648054990690,0,614,464,NaN,key.ALT+key.TAB,Firefox,7_img.png
+2,D,1,1648054991606,0,NaN,NaN,0,Veniam,Firefox,8_img.png
+3,A,1,1648054992926,1,646,261,1,NaN,Firefox,9_img.png
+3,B,1,1648054993494,1,586,288,1,NaN,Firefox,10_img.png
+3,C,1,1648054994194,0,273,405,NaN,key.ALT+key.TAB,Firefox,11_img.png
+3,D,1,1648054994797,0,NaN,NaN,0,Similique,Firefox,12_img.png
+4,A,1,1648054995633,1,1012,255,1,NaN,Firefox,13_img.png
+4,B,1,1648054995897,1,570,262,1,NaN,Firefox,14_img.png
+4,C,1,1648054996378,0,669,505,NaN,key.ALT+key.TAB,Firefox,15_img.png
+4,D,1,1648054997097,0,NaN,NaN,0,Quasi,Firefox,16_img.png
+5,A,2,1648054997818,1,1086,223,1,NaN,Firefox,17_img.png
+5,B,2,1648054998063,1,1090,96,1,NaN,Firefox,18_img.png
+5,E,2,1648054998311,0,NaN,NaN,NaN,dolorum quidem sed atque,Firefox,19_img.png
+6,A,2,1648054999089,1,887,229,1,NaN,Firefox,20_img.png
+6,B,2,1648054999325,1,1040,118,1,NaN,Firefox,21_img.png
+6,E,2,1648054999607,0,NaN,NaN,NaN,eligendi nobis praesentium pariatur,Firefox,22_img.png
+7,A,1,1648055000330,1,1105,213,1,NaN,Firefox,23_img.png
+7,B,1,1648055000563,1,640,273,1,NaN,Firefox,24_img.png
+7,C,1,1648055001060,0,202,493,NaN,key.ALT+key.TAB,Firefox,25_img.png
+7,D,1,1648055001777,0,NaN,NaN,0,Consequatur,Firefox,26_img.png
+8,A,2,1648055002481,1,617,242,1,NaN,Firefox,27_img.png
+8,B,2,1648055002714,1,1066,143,1,NaN,Firefox,28_img.png
+8,E,2,1648055002959,0,NaN,NaN,NaN,harum placeat voluptate saepe,Firefox,29_img.png
+9,A,2,1648055003809,1,540,232,1,NaN,Firefox,30_img.png
+9,B,2,1648055004247,1,1072,115,1,NaN,Firefox,31_img.png
+9,E,2,1648055004964,0,NaN,NaN,NaN,deserunt enim earum impedit,Firefox,32_img.png
+10,A,1,1648055007588,1,481,212,1,NaN,Firefox,33_img.png
+10,B,1,1648055008228,1,639,294,1,NaN,Firefox,34_img.png
+10,C,1,1648055009206,0,368,415,NaN,key.ALT+key.TAB,Firefox,35_img.png
+10,D,1,1648055009977,0,NaN,NaN,0,Voluptas,Firefox,36_img.png
+11,A,2,1648055010688,1,579,226,1,NaN,Firefox,37_img.png
+11,B,2,1648055010947,1,1091,83,1,NaN,Firefox,38_img.png
+11,E,2,1648055011306,0,NaN,NaN,NaN,debitis id commodi eveniet,Firefox,39_img.png
+12,A,1,1648055012027,1,545,236,1,NaN,Firefox,40_img.png
+12,B,1,1648055012287,1,594,249,1,NaN,Firefox,41_img.png
+12,C,1,1648055012799,0,359,527,NaN,key.ALT+key.TAB,Firefox,42_img.png
+12,D,1,1648055013401,0,NaN,NaN,0,Qui,Firefox,43_img.png
+13,A,1,1648055014145,1,451,235,1,NaN,Firefox,44_img.png
+13,B,1,1648055014386,1,585,257,1,NaN,Firefox,45_img.png
+13,C,1,1648055014906,0,259,571,NaN,key.ALT+key.TAB,Firefox,46_img.png
+13,D,1,1648055015575,0,NaN,NaN,0,Deleniti,Firefox,47_img.png
+14,A,1,1648055016327,1,444,233,1,NaN,Firefox,48_img.png
+14,B,1,1648055016568,1,615,285,1,NaN,Firefox,49_img.png
+14,C,1,1648055017075,0,149,390,NaN,key.ALT+key.TAB,Firefox,50_img.png
+14,D,1,1648055017677,0,NaN,NaN,0,Itaque,Firefox,51_img.png
